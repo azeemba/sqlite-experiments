@@ -1,0 +1,5 @@
+[requires]
+sqlite3/3.39.3
+
+[generators]
+cmake
